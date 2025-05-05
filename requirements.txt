@@ -1,0 +1,8 @@
+pandas
+numpy
+geopandas
+gurobipy
+seaborn
+matplotlib
+geoplot
+pdfplumber
